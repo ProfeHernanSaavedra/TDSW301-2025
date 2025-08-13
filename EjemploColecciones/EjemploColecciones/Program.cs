@@ -71,7 +71,7 @@ namespace EjemploColecciones
             {
                 Console.WriteLine(color);
             }
-
+            
             colores.Insert(0, "negro");
 
             Console.WriteLine("\nRecorrido por foreach");
@@ -79,7 +79,7 @@ namespace EjemploColecciones
             {
                 Console.WriteLine(color);
             }
-
+            
             Console.WriteLine("Total de elementos en la lista es: " + colores.Count);
 
             Console.ReadLine();
