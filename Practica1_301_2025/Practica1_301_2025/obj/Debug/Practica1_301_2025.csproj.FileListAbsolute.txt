@@ -5,3 +5,10 @@ C:\Users\labinf\source\repos\Practica1_301_2025\Practica1_301_2025\obj\Debug\Pra
 C:\Users\labinf\source\repos\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.exe
 C:\Users\labinf\source\repos\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.pdb
 C:\Users\labinf\source\repos\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.csprojAssemblyReference.cache
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\bin\Debug\Practica1_301_2025.exe.config
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\bin\Debug\Practica1_301_2025.exe
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\bin\Debug\Practica1_301_2025.pdb
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.csprojAssemblyReference.cache
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.csproj.CoreCompileInputs.cache
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.exe
+C:\Users\labinf\source\EjerciciosHSGTDSW\Practica1_301_2025\Practica1_301_2025\obj\Debug\Practica1_301_2025.pdb
