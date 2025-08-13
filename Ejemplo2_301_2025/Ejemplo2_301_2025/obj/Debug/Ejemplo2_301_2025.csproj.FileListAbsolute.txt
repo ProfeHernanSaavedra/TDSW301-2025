@@ -1,0 +1,7 @@
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\bin\Debug\Ejemplo2_301_2025.exe.config
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\bin\Debug\Ejemplo2_301_2025.exe
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\bin\Debug\Ejemplo2_301_2025.pdb
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\obj\Debug\Ejemplo2_301_2025.csprojAssemblyReference.cache
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\obj\Debug\Ejemplo2_301_2025.csproj.CoreCompileInputs.cache
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\obj\Debug\Ejemplo2_301_2025.exe
+C:\Users\labinf\source\repos\Ejemplo2_301_2025\Ejemplo2_301_2025\obj\Debug\Ejemplo2_301_2025.pdb
