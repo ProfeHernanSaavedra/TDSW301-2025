@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{81B2BDC9-DB86-4813-8E79-BDCCDD5BFFEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentacionWPF", "PresentacionWPF\PresentacionWPF.csproj", "{B4FDCC21-723B-43EF-A52A-755CE2BE91AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81B2BDC9-DB86-4813-8E79-BDCCDD5BFFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81B2BDC9-DB86-4813-8E79-BDCCDD5BFFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81B2BDC9-DB86-4813-8E79-BDCCDD5BFFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FDCC21-723B-43EF-A52A-755CE2BE91AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FDCC21-723B-43EF-A52A-755CE2BE91AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FDCC21-723B-43EF-A52A-755CE2BE91AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FDCC21-723B-43EF-A52A-755CE2BE91AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

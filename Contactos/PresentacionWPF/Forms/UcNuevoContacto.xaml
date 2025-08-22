@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="PresentacionWPF.Forms.UcNuevoContacto"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PresentacionWPF.Forms"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="600"
+              Background="#f0f0f0">
+    <Grid>
+          <Label Content="Nuevo Contacto" FontSize="22" Foreground="#223760" FontWeight="Bold"/>  
+    </Grid>
+</UserControl>
