@@ -6,8 +6,20 @@
              xmlns:local="clr-namespace:PresentacionWPF.Forms"
              mc:Ignorable="d" 
              d:DesignHeight="500" d:DesignWidth="600"
-              Background="#f0f0f0">
-    <Grid>
-          <Label Content="Nuevo Contacto" FontSize="22" Foreground="#223760" FontWeight="Bold"/>  
+              Background="#f0f0f0" Loaded="UserControl_Loaded">
+    <Grid Height="500" VerticalAlignment="Center" HorizontalAlignment="left" Width="600">
+        <Label Content="Nuevo Contacto" FontSize="22" Foreground="#223760" FontWeight="Bold"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="140,60,0,0" VerticalAlignment="Top" Height="36" Width="80" FontSize="18"/>
+        <TextBox x:Name="TxtNombre" HorizontalAlignment="Left" Height="40" Margin="255,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" FontSize="18"/>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="140,145,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="TxtApellido" HorizontalAlignment="Left" Height="36" Margin="255,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" FontSize="18"/>
+        <Label Content="Teléfono" HorizontalAlignment="Left" Margin="140,223,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="TxtTelefono" HorizontalAlignment="Left" Height="36" Margin="255,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" FontSize="18"/>
+        <Label Content="Fecha Nacimiento" HorizontalAlignment="Left" Margin="68,300,0,0" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="0.491,2.461"/>
+        <DatePicker Name="DtFechaNacimiento" HorizontalAlignment="Left" Margin="255,302,0,0" VerticalAlignment="Top" Width="219" Height="32" FontSize="18"/>
+        <Label Content="Grupo" HorizontalAlignment="Left" Margin="156,365,0,0" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="0.491,2.461"/>
+        <ComboBox x:Name="CboGrupo" HorizontalAlignment="Left" Margin="255,364,0,0" VerticalAlignment="Top" Width="182" Height="35" FontSize="18"/>
+        <Button Name="BtnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="442,417,0,0" VerticalAlignment="Top" Width="108" FontSize="18" FontWeight="Bold" Height="48" Click="BtnGuardar_Click"/>
+
     </Grid>
 </UserControl>

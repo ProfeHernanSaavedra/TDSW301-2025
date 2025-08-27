@@ -34,5 +34,12 @@ namespace PresentacionWPF
 
 
         }
+
+        private void BtnListar_Click(object sender, RoutedEventArgs e)
+        {
+            UserControl listar = new Forms.UcVerContactos();
+            this.GrdMain.Children.Clear();
+            this.GrdMain.Children.Add(listar);
+        }
     }
 }
