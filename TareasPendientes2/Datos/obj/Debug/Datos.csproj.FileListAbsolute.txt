@@ -1,0 +1,12 @@
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\Datos.dll.config
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\Datos.dll
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\Datos.pdb
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\obj\Debug\Datos.dll
+C:\Users\labinf\source\repos\TareasPendientes2\Datos\obj\Debug\Datos.pdb
